@@ -54,6 +54,6 @@ endfunction
 :set dictionary="/usr/dict/words"
 
 " Cursor higlight
-:hi CursorLine   cterm=NONE ctermbg=darkred ctermfg=white guibg=darkgreen guifg=white
-:hi CursorColumn cterm=NONE ctermbg=darkred ctermfg=white guibg=darkgreen guifg=white
+:hi CursorLine   cterm=NONE ctermbg=darkgrey ctermfg=white guibg=grey guifg=white
+:hi CursorColumn cterm=NONE ctermbg=darkgrey ctermfg=white guibg=grey guifg=white
 :set cursorline! cursorcolumn!
