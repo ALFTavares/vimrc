@@ -57,3 +57,6 @@ endfunction
 :hi CursorLine   cterm=NONE ctermbg=darkgrey ctermfg=white guibg=grey guifg=white
 :hi CursorColumn cterm=NONE ctermbg=darkgrey ctermfg=white guibg=grey guifg=white
 :set cursorline! cursorcolumn!
+
+" On pressing tab, insert 4 spaces
+:set tabstop=4
