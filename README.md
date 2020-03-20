@@ -14,3 +14,6 @@ Just put the .vimrc file in your home folder
 			:echo $VIM
 			:echo $VIMRUNTIME
 		to find where your home folder is
+
+UPDATE:
+	Install NERDTree from: https://github.com/preservim/nerdtree
